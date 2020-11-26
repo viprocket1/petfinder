@@ -111,9 +111,7 @@ cd to the projects directory and open the index.html in your browser
 - Improve the front-end
 
 <!-- CONTACT -->
-## Contact
 
-👤 Alexandru Bangau - twitter: [@alex_maxinova](https://twitter.com/alex_maxinova) - github: [@ramamzzoti2000](https://github.com/rammazzoti2000) - gmail: bangau.alexandru@gmail.com
 
 ## 🤝 Contributing
 
